@@ -1,0 +1,9 @@
+## Adicionar estas linhas ##
+
+
+        <event type="death" name="gate" event="script" value="dtk/death_gate.lua"/>
+    <event type="kill" name="death_king" event="script" value="dtk/death_king.lua"/> 
+    <event type="combat" name="king" event="script" value="dtk/king-combat.lua"/>
+    <event type="combat" name="player_combat" event="script" value="dtk/player-combat.lua"/>  
+    <event type="think" name="king_sinc" event="script" value="dtk/sincronia.lua"/> 
+    <event type="preparedeath" name="player_death_dtk" event="script" value="dtk/player_death.lua"/>  

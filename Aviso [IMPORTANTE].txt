@@ -1,0 +1,17 @@
+AVISO IMPORTANTE - Defend The King v2 (Ot-Soft.Com)
+
+#Preste atenção para não cometer erros!
+
+1) Apartir do momento que o script estive instalado em seu servidor, nunca feiche o OT quando o evento estiver sendo executado.
+
+2) Se o servidor for desligado com o evento executando precisará mecher nas STORAGES
+
+3) Para trocar as storages apenas abra seu config-dtk.lua e mude apenas 3 números de cada da configuração AVANÇADA, caso contrário não mecha
+
+4) Se tiver alguma dúvida entre em contato conosco para melhor entendimento do mesmo
+
+-----//------
+
+Qualquer dúvida não exite em nos contatar!
+
+Ot-Soft.Com | A satisfação total de nossos clientes é o que nos move!!

@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `players_dtk` (
+  `name` varchar(30) NOT NULL,
+  `group_name` varchar(10) NOT NULL,
+  `escolhido` int(2) NOT NULL DEFAULT '0',
+  `town` int(4) NOT NULL DEFAULT '1'
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

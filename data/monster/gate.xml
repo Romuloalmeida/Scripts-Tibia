@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gate" nameDescription="a gate of fortress" race="undead" experience="0" speed="0" manacost="0">
+<health now="25000" max="25000"/>
+<look typeex="1547" corpse="2869"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="0"/>
+<flag illusionable="0"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="0"/>
+<flag canpushcreatures="0"/>
+<flag targetdistance="0"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags>
+	<defenses armor="1" defense="3"/>
+	<loot>
+	</loot>   
+  <script> 
+    <event name="gate"/> 
+  </script>
+	
+</monster>

@@ -1,0 +1,17 @@
+Tutorial do Evento - Defend The King v2 (OT-Soft.Com)
+
+#Preste atenção para não cometer erros!
+
+1) Extraia de acordo com as pastas aqui denominadas.
+
+2) Execute a query que está dentro do arquivo mysql.txt
+
+3) Crie 2(duas) towns, uma chamada atacantes, e outra chamada defensores.
+- Coloque em suas Temple Position, o lugar exato de nascimento de seus respectivos grupos.
+- Grave os ids desta city e os coloque em config-dtk.lua, onde está escrito: towns_id , abaixo de: Configurações extramamente importantes.
+
+) Pronto! Divirta-se! Nao esqueça de editar o config-dtk.lua e o globalevents, para determinar a hora a ser executada!
+
+Qualquer dúvida não exite em nos contatar!
+
+OT-Soft.Com | A satisfação total de nossos clientes é o que nos move!!

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+    
+	<!-- Defend the king -->
+	<monster name="Gate" file="gate.xml"/>
+	<monster name="The King" file="the king.xml"/>
+
+    
+</monsters>
