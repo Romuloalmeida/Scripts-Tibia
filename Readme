@@ -1,11 +1,28 @@
-Este é um repositório bem antigo da época que eu programava em LUA.
-Este script era usado para fazer um evento divertido em um jogo chamado Tibia.
-Foi uma experiência muito importante da minha vida, onde fiz amigos, e iniciei ( mesmo que sem saber naquela época) 
+Este repositório é uma lembrança de quando eu programava para um jogo chamado Tibia.
+Foi uma experiência muito importante da minha vida, quando iniciei ( mesmo que sem saber naquela época) 
 a minha carreira como programador.
 
-Fiz a minha contribuição para a comunidade, com tutoriais e scripts, me sinto com o dever cumprido para este grande jogo
-que eu joguei.
+Deixo aqui embaixo as minhas contribuições (ainda úteis e online) para a comunidade, com tutoriais e scripts que fiz.
 
-Infelizmente não tenho muito guardado daqueles anos ( 2009-2010).
 
-Demonstração deste script em si: https://www.youtube.com/watch?v=nmmt2Wma0ps
+Framework para simplificar a criação de magias:
+https://forums.otserv.com.br/index.php?/forums/topic/165553-simple-spell/&tab=comments#comment-1225546
+
+Framework para a Tradução da linguagens dos NPC's:
+https://forums.otserv.com.br/index.php?/forums/topic/165471-translate-d%C3%AA-imers%C3%A3o-ao-player/&tab=comments#comment-1224978
+
+NPC - O Viajante
+É um NPC que vende itens ( que você configurou ) mas de forma que o comprador tenha que esperar um tempo pra chegar a encomenda! Isto é útil em servers onde o RPG é prioridade.
+
+Sistema de Tutorial para servidores complicados.
+Esse sistema ajudara os players na hora de começar. Ele vai teletransportando o jogador novato para lugares chaves do mapa, ensinando-o a jogar no seu servidor.
+https://forums.otserv.com.br/index.php?/forums/topic/138683-sistema-tutorial-system-10/
+
+Tibia Real Temperature
+Um scripts que dava ao Tibia uma espécie de sensação térmica. O mundo tinha temperaturas variáveis como no mundo real.
+Se ele estivesse em uma caverna, por exemplo, o player soa ou numa condição extrema, por ser configurada para perder vida.
+É útil para servidores de RPG.
+
+https://forums.otserv.com.br/index.php?/forums/topic/138426-tibia-real-temperature/
+
+
